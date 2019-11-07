@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=LOGO1 Old Footprint=PIF LOGO SMALL SSTOP New Footprint=PIF LOGO BIG TOP
+Change Component Designator: OldDesignator=H_brige NewDesignator=P2
+Change Component Designator: OldDesignator=ic NewDesignator=U2
+Change Component Designator: OldDesignator=sensor NewDesignator=P3
+Change Component Designator: OldDesignator=uart NewDesignator=P4
+Added Member To Class: ClassName=Sheet1 Member=Component J? 691201520002

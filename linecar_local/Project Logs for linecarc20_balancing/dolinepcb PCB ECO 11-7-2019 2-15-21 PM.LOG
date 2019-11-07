@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PWM2 Pin=U1-36
+Removed Pin From Net: NetName=PWM1 Pin=U1-37
+Added Pin To Net: NetName=PWM1 Pin=U1-36
+Added Pin To Net: NetName=PWM2 Pin=U1-37
+Added Room: Name=dolinesch
