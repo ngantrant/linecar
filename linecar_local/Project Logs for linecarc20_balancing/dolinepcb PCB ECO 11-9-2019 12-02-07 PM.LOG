@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=+5v Pin=UART-1
+Removed Pin From Net: NetName=GND Pin=UART-2
+Removed Pin From Net: NetName=TX1 Pin=UART-4
+Removed Pin From Net: NetName=RX1 Pin=UART-5
+Removed Member From Class: ClassName=dolinesch Member=UART
+Added Component: Designator=*(JP6)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5v Pin=*-2
+Added Pin To Net: NetName=GND Pin=*-3
+Added Pin To Net: NetName=TX1 Pin=*-4
+Added Pin To Net: NetName=RX1 Pin=*-5
+Added Member To Class: ClassName=dolinesch Member=Component * HC 05

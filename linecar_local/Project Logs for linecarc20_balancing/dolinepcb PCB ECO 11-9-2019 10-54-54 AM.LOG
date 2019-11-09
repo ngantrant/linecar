@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=+5v Pin=HC05-2
+Removed Pin From Net: NetName=GND Pin=HC05-3
+Removed Pin From Net: NetName=TX1 Pin=HC05-4
+Removed Pin From Net: NetName=RX1 Pin=HC05-5
+Removed Member From Class: ClassName=dolinesch Member=HC05
+Change component parameters: Designator = "C2"; Footprint = "CAP-SM-0805"; UniqueID = "\BIBMJACV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "CAP-SM-0805"; UniqueID = "\VPKDOHLO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP-SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Added Component: Designator=UART(JP6)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=+3v3 Pin=C4-2
+Added Pin To Net: NetName=+5v Pin=UART-1
+Added Pin To Net: NetName=GND Pin=UART-2
+Added Pin To Net: NetName=TX1 Pin=UART-4
+Added Pin To Net: NetName=RX1 Pin=UART-5
+Added Member To Class: ClassName=dolinesch Member=Component C4 Cap Non-Pol SMD
+Added Member To Class: ClassName=dolinesch Member=Component UART HC 05
+Added Room: Name=dolinesch
