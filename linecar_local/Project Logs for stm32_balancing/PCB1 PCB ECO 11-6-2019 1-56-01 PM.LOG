@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=+5 Pin=P3-1
-Removed Pin From Net: NetName=+5 Pin=U2-20
-Added Pin To Net: NetName=+5v Pin=P3-1
-Added Pin To Net: NetName=+5v Pin=U2-20
-Added Member To Class: ClassName=Sheet1 Member=Component J? 691201520002
-Added Member To Class: ClassName=Sheet1 Member=Component P3 Header 6

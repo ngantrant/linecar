@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=TX1 Pin=*-4
-Removed Pin From Net: NetName=RX1 Pin=*-5
-Added Pin To Net: NetName=RX1 Pin=*-4
-Added Pin To Net: NetName=du Pin=*-5
-Added Net: Name=du
-Added Room: Name=dolinesch

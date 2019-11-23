@@ -1,0 +1,20 @@
+Change Component Designator: OldDesignator=* NewDesignator=U2
+Change Component Library : Designator=V_in Old Library=PIF_Schematic_Lib.SchLib New Library=linecarc20_balancing.SCHLIB
+Added Component: Designator=H1(LO KHOAN 3MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H2(LO KHOAN 3MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H3(LO KHOAN 3MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H4(LO KHOAN 3MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LOGO1(PIF LOGO TOP OVERLAY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LOGO1(PIF LOGO TOP OVERLAY)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=dolinesch Member=Component H1 Hole
+Added Member To Class: ClassName=dolinesch Member=Component H2 Hole
+Added Member To Class: ClassName=dolinesch Member=Component H3 Hole
+Added Member To Class: ClassName=dolinesch Member=Component H4 Hole
+Added Member To Class: ClassName=dolinesch Member=Component LOGO1 LOGO PIF
+Added Member To Class: ClassName=dolinesch Member=Component LOGO1 LOGO PIF
