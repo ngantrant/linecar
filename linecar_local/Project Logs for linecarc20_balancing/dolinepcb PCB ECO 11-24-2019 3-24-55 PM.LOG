@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=+5v Pin=C4-2
+Added Pin To Net: NetName=+5v Pin=U2-1
+Added Member To Class: ClassName=dolinesch Member=Component LOGO1 LOGO PIF
+Added Member To Class: ClassName=dolinesch Member=Component U2 HC 05_1
+Added Room: Name=dolinesch

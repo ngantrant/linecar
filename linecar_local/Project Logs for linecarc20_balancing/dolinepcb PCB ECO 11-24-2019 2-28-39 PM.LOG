@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=ADC5 Pin=ADC-6
+Removed Pin From Net: NetName=ADC6 Pin=ADC-7
+Removed Pin From Net: NetName=ADC7 Pin=ADC-8
+Removed Member From Class: ClassName=dolinesch Member=ADC
+Change Component Comment : Designator=U2 Old Comment=HC 05 New Comment=HC 05_1
+Added Component: Designator=P1(JP3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U3(JP6)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=ADC5 Pin=P1-1
+Added Pin To Net: NetName=ADC6 Pin=P1-2
+Added Pin To Net: NetName=ADC7 Pin=P1-3
+Added Pin To Net: NetName=+5v Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Change Net Name : Old Net Name=RX1 New Net Name=MCU_RX1
+Change Net Name : Old Net Name=TX1 New Net Name=MCU_TX1
+Added Pin To Net: NetName=MCU_RX2 Pin=U1-8
+Added Pin To Net: NetName=MCU_RX2 Pin=U3-4
+Added Net: Name=MCU_RX2
+Added Pin To Net: NetName=MCU_TX2 Pin=U1-7
+Added Pin To Net: NetName=MCU_TX2 Pin=U3-5
+Added Net: Name=MCU_TX2
+Added Member To Class: ClassName=dolinesch Member=Component LOGO1 LOGO PIF
+Added Member To Class: ClassName=dolinesch Member=Component P1 Header 3
+Added Member To Class: ClassName=dolinesch Member=Component U2 HC 05_1
+Added Member To Class: ClassName=dolinesch Member=Component U3 HC 05_2
+Added Room: Name=dolinesch
